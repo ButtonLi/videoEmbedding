@@ -1,0 +1,4 @@
+bingfen	test/bingfen_vgg
+shougongfen	test/shougongfen_vgg
+dumplings	test/dumplings_vgg
+fupi	test/fupi_vgg
