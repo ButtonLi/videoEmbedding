@@ -1,0 +1,5 @@
+E:\\video_embedding\\intermediate-cnn-features\\videos\\bingfen.mp4
+E:\\video_embedding\\intermediate-cnn-features\\videos\\shougongfen.mp4
+E:\\video_embedding\\intermediate-cnn-features\\videos\\dumplings.mp4
+E:\\video_embedding\\intermediate-cnn-features\\videos\\fupi.mp4
+E:\\video_embedding\\intermediate-cnn-features\\videos\\huajia.mp4
